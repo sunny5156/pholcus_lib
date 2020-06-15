@@ -137,7 +137,7 @@ func init() {
 				// },
 			},
 		},
-	}
+	}.Register()
 	
 }
 
