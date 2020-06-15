@@ -17,7 +17,7 @@ import (
 	// 字符串处理包
 	//"regexp"
 	// "strconv"
-	// "fmt"
+	"fmt"
 	// "math"
 	// "time"
 	"strings"
@@ -26,6 +26,7 @@ import (
 )
 
 func init() {
+	fmt.Print("ceshi")
 	ShopeeMy.Register()
 }
 
