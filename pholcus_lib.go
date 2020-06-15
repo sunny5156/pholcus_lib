@@ -21,6 +21,7 @@ import (
 	_ "github.com/henrylee2cn/pholcus_lib/miyabaobei"
 	_ "github.com/henrylee2cn/pholcus_lib/people"
 	_ "github.com/henrylee2cn/pholcus_lib/qq_avatar"
+	_ "github.com/henrylee2cn/pholcus_lib/shopee_my"
 	_ "github.com/henrylee2cn/pholcus_lib/shunfenghaitao"
 	_ "github.com/henrylee2cn/pholcus_lib/taobao"
 	_ "github.com/henrylee2cn/pholcus_lib/taobaosearch"
